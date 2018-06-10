@@ -1,2 +1,1 @@
-# LOL-index
-# LOL-index
+# LOL
