@@ -352,7 +352,7 @@ main .version a {
 /*body*/
 .content{
 	display: flex;
-
+	justify-content:center;
 	background:#fafafa;
 	margin-top:30px;
 	padding:0 90px;
@@ -434,6 +434,7 @@ align-items: center;
 	padding:0 90px;
 	background: #fafafa;
 	display: flex;
+	justify-content:center;
 }
 .news-fitrst-title{
 	margin-left: 20px;
