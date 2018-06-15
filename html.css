@@ -352,7 +352,7 @@ main .version a {
 /*body*/
 .content{
 	display: flex;
-
+	justify-content: center;
 	background:#fafafa;
 	margin-top:30px;
 	padding:0 90px;
@@ -432,6 +432,7 @@ align-items: center;
 .news{
 	margin-top:50px;
 	padding:0 90px;
+	justify-content: center;
 	background: #fafafa;
 	display: flex;
 }
