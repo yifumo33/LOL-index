@@ -352,11 +352,7 @@ main .version a {
 /*body*/
 .content{
 	display: flex;
-<<<<<<< HEAD
 	justify-content: center;
-=======
-	justify-content:center;
->>>>>>> e9149f17e8881d7ceb3d1bf57d87d0b45a2833eb
 	background:#fafafa;
 	margin-top:30px;
 	padding:0 90px;
